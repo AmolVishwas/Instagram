@@ -6,3 +6,5 @@ GETWINDOWHANDLES:
 
 GETWINDOWHANDLE:
                This is used to get the address of the current browser window where its focused on and returns the data type of string
+
+New features adding --> file
