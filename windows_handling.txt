@@ -2,4 +2,7 @@ GETWINDOWHANDLE:
                This is used to get the address of the current browser window where its focused on and returns the data type of string.
 
 GETWINDOWHANDLES:
-              This is used to get the address of the all the open browsers and returns the datatype of Set<string>. 
+              This is used to get the address of the all the open browsers and returns the datatype of Set<string>.
+
+GETWINDOWHANDLE:
+               This is used to get the address of the current browser window where its focused on and returns the data type of string
